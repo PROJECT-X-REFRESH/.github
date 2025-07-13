@@ -16,7 +16,7 @@
 - **나눔게시판**: 사람들과 함께 봉사, 담소, 물건을 나눌 수 있는 공간입니다.
 
 ## 🛠️ 서비스 아키텍처
-
+<img width="1441" height="766" alt="Image" src="https://github.com/user-attachments/assets/3ead42ac-1d6a-4030-abbb-a126082b7341" />
 
 ## 👨‍💻👩‍💻 팀 구성 
 
